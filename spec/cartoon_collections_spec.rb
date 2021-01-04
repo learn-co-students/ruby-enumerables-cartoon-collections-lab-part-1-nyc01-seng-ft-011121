@@ -1,4 +1,4 @@
-require "spec_helper"
+require "spec_helper" 
 
 describe "Using Each" do
   describe "greet_characters" do
